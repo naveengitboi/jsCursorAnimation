@@ -8,4 +8,6 @@ window.onmousemove = function(e){
     cursor.style.left = x + 'px'
     cursor.style.top = y + 'px'
 
+
+
 }
